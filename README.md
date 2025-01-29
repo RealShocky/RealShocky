@@ -27,7 +27,8 @@
 ## 📬 How to Reach Me
 - 🌐 Website: [Vibration Robotics](https://vibrationrobotics.com)
 - 📧 Email: mark.varkevisser@execs.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/markvarkevisser/)
+- 💼 Personal LinkedIn: [Mark Varkevisser](https://www.linkedin.com/in/markvarkevisser/)
+- 💼 Business LinkedIn: [Vibration Robotics](https://www.linkedin.com/company/vibration-robotics/)
 
 ## 🎉 Fun Facts
 - 🎮 Pokémon fan with a **mysterious** yet **wealthy** PTU character
